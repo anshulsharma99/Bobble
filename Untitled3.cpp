@@ -3,7 +3,7 @@ using namespace std;
 
 vector<string> input1;
 
-int main()
+int main(int argv,char** argc)
 {
 	fstream input;
 	fstream output;
